@@ -1,0 +1,11 @@
+{
+  "name": "foodie-web",
+  "version": "1.0.0",
+  "description": "foodie web front end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jian Shen",
+  "license": "ISC"
+}
